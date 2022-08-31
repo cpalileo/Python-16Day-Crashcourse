@@ -1,0 +1,1 @@
+print("The name of your beer \nis " + input("Name an emotion: ") + " " + input("Name and animal: ") + "." + "\nNow to put a trademark on that brand!")
