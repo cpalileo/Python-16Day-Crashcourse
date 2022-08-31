@@ -1,0 +1,1 @@
+print("The name of your beer is " + input("Name an emotion or personality trait: ") + " " + input("Name a type of animal or plant: ") + "\nNow go and trademark that name!")
